@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(56, 56, 255);
+}
+
+#score{
+    font-size: 20px;
+    margin-left: 85%;
+}
+
+#timer{
+    font-size: 20px;
+    margin-left: 85%;
+}
+
+#to_be_drawn{
+    color: beige;
+}
